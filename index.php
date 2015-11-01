@@ -76,7 +76,7 @@
 					<hr>
 
 					<ul class="list">
-						<li>Lorem ipsum</li>
+						<li>Lorem ipsum25</li>
 						<li>Dolor sit amet conse</li>
 						<li>Ctetur adipisicing</li>
 						<li>Eiusmod</li>
