@@ -61,10 +61,13 @@ span{
 .left_l{
 	width: 222px;
 	float: left;
+	margin-left: 14px;
+	margin-top: 10px;
 }
-.left_m{
-	width: 222px;
+.left_l a{
+	margin-left: 80px;
 }
+
 /*.list li{
 	list-style-type: none;
 }

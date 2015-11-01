@@ -4,4 +4,3 @@ echo "hello world!";
 
 
 
-echo "WoW hello world!";
