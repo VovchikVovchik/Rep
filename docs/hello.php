@@ -8,3 +8,4 @@ git config --global core.editor "'C:\Program Files\Sublime Text 2\sublime_text.e
 echo "hello!";
 
 echo "hello!";
+echo "branch master";
