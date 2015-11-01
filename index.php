@@ -44,24 +44,30 @@
 
 			<div class="news">
 				<div class="left">
-					<img class="img" src="21.png">
-					<a href="">Brakes</a>
-					<img class="img" src="22.png">
-					<a href="">Drive Train</a>
-					<img class="img" src="23.png">
-					<a href="">Forks</a>
-					<img class="img" src="24.png">
-					<a href="">Handlebars</a>
-					<img class="img" src="25.png">
-					<a href="">Saddles</a>
-					<img class="img" src="26.png">
-					<a href="">Seatposts</a>
-					<img class="img" src="27.png">
-					<a href="">Stems</a>
-					<img class="img" src="28.png">
-					<a href="">Tires</a>
-					<img class="img" src="29.png">
-					<a href="">Wheels</a>
+					<div class="left_l">
+						<img class="img" src="21.png">
+						<a href="">Brakes</a>
+						<img class="img" src="24.png">
+						<a href="">Handlebars</a>
+						<img class="img" src="27.png">
+						<a href="">Stems</a>
+					</div>
+					<div class="left_l">
+						<img class="img" src="22.png">
+						<a href="">Drive Train</a>
+						<img class="img" src="25.png">
+						<a href="">Saddles</a>
+						<img class="img" src="28.png">
+						<a href="">Tires</a>
+					</div>
+					<div class="left_l">
+						<img class="img" src="23.png">
+						<a href="">Forks</a>
+						<img class="img" src="26.png">
+						<a href="">Seatposts</a>
+						<img class="img" src="29.png">
+						<a href="">Wheels</a>
+					</div>
 				</div>
 
 				<div class="right">
